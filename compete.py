@@ -10,6 +10,9 @@
 Please visit http://developer.compete.com/ and get a API Key to use this library.
 '''
 
+__author__ = 'Srinivasan R'
+__version__ = '0.1'
+
 import csv
 import urllib2
 from xml.etree import ElementTree as ET
